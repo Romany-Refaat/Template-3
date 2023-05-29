@@ -764,7 +764,7 @@ h2.main-title:hover::after {
   flex-direction: column;
   justify-content: center;
   position: relative;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .team .grid .item::before {
