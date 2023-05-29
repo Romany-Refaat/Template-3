@@ -1569,6 +1569,13 @@ h2.main-title:hover::after {
   padding: 20px;
 }
 
+@media (max-width: 1200px) {
+  .videos .grid .right p {
+    padding: 10px;
+    margin-top: 15px;
+  }
+}
+
 /* End Top Videos */
 
 /* Start Our Awesome Stats */
