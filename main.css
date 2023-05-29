@@ -1566,14 +1566,8 @@ h2.main-title:hover::after {
 .videos .grid .right p {
   text-transform: capitalize;
   background: white;
-  padding: 20px;
-}
-
-@media (max-width: 1200px) {
-  .videos .grid .right p {
-    padding: 15px;
-    margin-top: 20px;
-  }
+  padding: 15px;
+  margin-top: 20px;
 }
 
 /* End Top Videos */
