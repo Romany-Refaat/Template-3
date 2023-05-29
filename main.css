@@ -789,7 +789,7 @@ h2.main-title:hover::after {
   display: flex;
   justify-content: space-around;
   align-items: center;
- }
+}
 
 .team .grid .item .flex * {
   z-index: 2;
